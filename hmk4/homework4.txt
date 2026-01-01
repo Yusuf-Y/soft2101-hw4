@@ -1,0 +1,49 @@
+STEP A:
+git config --global user.name "Yusuf Y"
+git config --global user.email "23soft1025@isik.edu.tr"
+git config --global core.editor nano
+
+STEP B:
+.git directory contains:
+HEAD
+config
+description
+hooks
+info
+objects
+refs
+logs
+
+STEP C:
+[Department of Software Engineering – Işık University](https://www.isikun.edu.tr/akademik/muhendislik-fakultesi/bolumler-ve-programlar/bilgisayar-muhendisligi/programlar/lisans-programi/yazilim-muhendisligi)
+
+STEP D:
+.class files
+log files
+IDE folders
+build folders
+
+STEP F:
+Commits on feature-1:
+satisfying requirement one
+
+hmk1 directory on feature-1:
+RangePrinter.java
+
+hmk1 directory on main:
+RangePrinter.java
+
+STEP J:
+Commits on feature-2:
+satisfying requirement change two
+
+STEP K:
+Commits on feature-3:
+satisfying requirement change three
+
+STEP M:
+Differences between branches:
+feature-1 prints all numbers
+feature-2 prints odd numbers
+main prints even numbers
+
